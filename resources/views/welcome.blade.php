@@ -25,7 +25,7 @@
 
                 </div>
                 <div>
-                    <a href="'/projectHome'">goooooooooo</a>
+                    <a href="/homeProject">goooooooooo</a>
                 </div>
                 @if(Auth::guest())
                     <a href="/login" class="btn btn-info"> You need to login to see the list 😜😜 >></a>
